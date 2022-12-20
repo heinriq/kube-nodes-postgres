@@ -1,10 +1,10 @@
 # Onboarding Kubernetes
 
-[Doc no Notion](https://cottony-tarn-491.notion.site/SOAR-Onboarding-Kubernetes-bc55c3afd3074b74b19ba284e8bdd0b3)
 
 Material da conversa do dia 20/12 sobre a conversa e apresentação de alguns conceitos de Kubernetes
 
-## Índice
+## Documentação no Notion
+### [Índice](https://cottony-tarn-491.notion.site/SOAR-Onboarding-Kubernetes-bc55c3afd3074b74b19ba284e8bdd0b3)
 
 [O que é Kubernetes?](https://cottony-tarn-491.notion.site/O-que-Kubernetes-e3a660283e0a4f838f0dfbafb30ac206)
 
